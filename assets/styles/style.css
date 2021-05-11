@@ -1,0 +1,25 @@
+.carousel-control.left, .carousel-control.right {
+  left: 0;
+  z-index: 1;
+}
+
+.feature
+{
+	background: #6a2c70;
+}
+.feature h1, .feature div 
+{
+	color: #eeecda;
+}
+
+.footer_section ul li
+{
+list-style-type: none;
+}
+
+
+
+/*To make the “Back to Top” effect go smoothly*/
+*{
+ scroll-behavior: smooth;
+}
